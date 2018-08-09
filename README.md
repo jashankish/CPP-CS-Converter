@@ -1,3 +1,3 @@
 # CPP-CS-Converter
 
-A C++ application that attempts to translate C# source code
+An application I made to translate *simple* C++ source code to C# 
